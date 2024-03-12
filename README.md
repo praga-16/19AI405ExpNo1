@@ -39,8 +39,9 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-### PROGRAM: KADIN SAMSON L
-# REGISTER NO: 212221230044
+### PROGRAM: 
+# NAME: PRAGATHEESVARAN A B
+# REGISTER NO: 212221240039
 ```class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
